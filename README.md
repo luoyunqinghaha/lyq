@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I am currently working in BYD Semiconductor Company!  
 
-<img align="right" alt="img" src="https://github.com/luoyunqinghaha/lyq/blob/master/cover_image.jpg" width="50%" height="auto" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);">
+<img align="right" alt="img" src="https://s2.loli.net/2024/10/26/bgEdwspaxR54hZ9.jpg" width="50%" height="auto" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);">
 
 
 #### 🌱 Things I am currently working on:   
