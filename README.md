@@ -15,12 +15,12 @@ Welcome to my Github page! I am Luo Yunqing and I am currently working in BYD Se
  - Responsible for server operations and maintenance
  - EDA (Electronic Design Automation) tools
  - Cluster scheduling software
-#### :muscle: Things I am challenging myself with:
+#### 💪 Things I am challenging myself with:
 - Waking up earlier to make good use of the day
 - Exercising 3 days a week
 - Improving my CV with some education apart from university
 
-#### :computer: Programming languages and tools: 
+#### 💻 Programming languages and tools: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=luoyunqinghaha&show_icons=true&theme=transparent" />
 
