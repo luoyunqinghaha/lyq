@@ -11,7 +11,7 @@
  <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/TianChong_b.gif?raw=true">
 
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You! :peach: 👄💋
+You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You!  💋
 
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/terminal.gif?raw=true" width="50%" height="50%">
 
