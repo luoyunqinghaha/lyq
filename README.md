@@ -7,7 +7,7 @@
 - 😄 Read more about me
 - [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E185F7&width=435&lines=life+is+fucking+movie)](https://git.io/typing-svg)
 
-![](https://github-readme-stats.vercel.app/api?username=wisdom-zhe&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=luoyunqinghaha&show_icons=true&theme=transparent)
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You! :peach:
 
