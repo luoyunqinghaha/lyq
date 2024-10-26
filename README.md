@@ -9,7 +9,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=luoyunqinghaha&show_icons=true&theme=transparent)
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You! :peach:
+You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You! :peach: 👄💋
 
 ### My Skill Set
 
