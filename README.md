@@ -5,12 +5,12 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luoyunqing/) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lyq2251991@gmail.com) 
 
-Welcome to my Github page! I am Luo Yunqing and I am currently working in BYD Semiconductor!  
+Welcome to my Github page! I am currently working in BYD Semiconductor Company!  
 
 <img align="right" alt="img" src="https://github.com/luoyunqinghaha/lyq/blob/master/cover_image.jpg" width="50%" height="auto" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);">
 
 
-#### 🌱 Things I am currently working on: 
+#### 🌱 Things I am currently working on:   
  - Responsible for server operations and maintenance
  - EDA (Electronic Design Automation) tools
  - Cluster scheduling software
