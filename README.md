@@ -1,8 +1,8 @@
- : kissing_heart:: kissing_heart:### Hi there 👋,I'm 卿哥.
+ ### Hi there 👋,I'm 卿哥.
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
-- 💬 Ask me about anything related to Java/Python.
+- 💬 Ask me about anything related to Python.
 - 📫 How to reach me: 519671903@qq.com
 - 😄 Read more about me
 
