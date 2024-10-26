@@ -15,11 +15,9 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.s
 
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/terminal.gif?raw=true" width="50%" height="50%">
 
-<p align="left"> <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/Vlog_h.gif?raw=true" height="50%" width="50%">
+
+- <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
 
  ![](https://github-readme-stats.vercel.app/api?username=luoyunqinghaha&show_icons=true&theme=transparent)
 
-<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
-
- ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
