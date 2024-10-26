@@ -42,8 +42,7 @@ Welcome to my Github page! I am currently working in BYD Semiconductor Company!
 
 <sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull </sub>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E185F7&width=435&lines=life+is+fucking+movie)](https://git.io/typing-svg) 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58D1F7&width=435&lines=%E6%98%8E%E6%98%8E%E6%98%AF%E4%B8%80%E5%9C%BA%E7%A9%BA%E5%9C%A8%E6%A2%A6%E9%87%8C%E6%B5%AE%E6%B2%89)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E185F7&width=435&lines=life+is+fucking+movie)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58D1F7&width=435&lines=%E6%98%8E%E6%98%8E%E6%98%AF%E4%B8%80%E5%9C%BA%E7%A9%BA%E5%9C%A8%E6%A2%A6%E9%87%8C%E6%B5%AE%E6%B2%89)](https://git.io/typing-svg)
   
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You!  💋
