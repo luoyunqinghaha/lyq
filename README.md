@@ -8,7 +8,7 @@
 
 Welcome to my Github page! I am Luo Yunqing and I am currently working in BYD Semiconductor!  
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/luoyunqinghaha/lyq/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
