@@ -22,7 +22,7 @@ Welcome to my Github page! I am Luo Yunqing and I am currently working in BYD Se
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=luoyunqinghaha&show_icons=true&theme=transparent" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <br />
@@ -48,6 +48,5 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.s
 
 - <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
 
- ![](https://github-readme-stats.vercel.app/api?username=luoyunqinghaha&show_icons=true&theme=transparent)
 
 
