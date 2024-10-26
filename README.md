@@ -38,8 +38,6 @@ Welcome to my Github page! I am currently working in BYD Semiconductor Company!
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58D1F7&width=435&lines=%E6%98%8E%E6%98%8E%E6%98%AF%E4%B8%80%E5%9C%BA%E7%A9%BA%E5%9C%A8%E6%A2%A6%E9%87%8C%E6%B5%AE%E6%B2%89)](https://git.io/typing-svg)
   
- <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/TianChong_b.gif?raw=true" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); width: 50%; height: auto;">
-
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You!  💋
 
