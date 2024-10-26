@@ -27,7 +27,6 @@ Welcome to my Github page! I am currently working in BYD Semiconductor Company!
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://camo.githubusercontent.com/4b128147bc23feb86b72e6e5b786765cbf5e214817fb65ad51280068c7a3bd4e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b"></code>
 <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/1/11/VMware_logo.svg"></code>
-
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code> 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code> 
