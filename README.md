@@ -20,7 +20,7 @@ Welcome to my Github page! I am currently working in BYD Semiconductor Company!
 - Exercising 3 days a week
 - Improving my CV with some education apart from university
 #### 👏 Focus & Interests
-- Networking, BPF
+- Networking, python
 - AI infra AI 
 - Cloud, container, virtualization 
 - Distributed storage 
