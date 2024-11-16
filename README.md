@@ -13,12 +13,18 @@ Welcome to my Github page! I am currently working in BYD Semiconductor Company!
 
 #### 🌱 Things I am currently working on:   
  - Responsible for server operations and maintenance
- - EDA (Electronic Design Automation) tools
+ - EDA (Electronic Design Automation) tools                                        
  - Cluster scheduling software
 #### 💪 Things I am challenging myself with:
 - Waking up earlier to make good use of the day
 - Exercising 3 days a week
 - Improving my CV with some education apart from university
+#### 👏 Focus & Interests
+- Networking, BPF
+- AI infra AI 
+- Cloud, container, virtualization 
+- Distributed storage 
+
 
 #### 💻 Programming languages and tools: 
 <p>
